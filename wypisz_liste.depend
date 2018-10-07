@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1260289851 source:c:\temp\wypisz_liste\main.c
+	<stdio.h>
+	<stdlib.h>
+
